@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "nasa_spaceapp"
+version = "0.1.0"
+description = ""
+authors = ["sa"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+opencv-python = "^4.6.0"
+numpy = "^1.23.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
