@@ -30,6 +30,9 @@ With the implementation of principles of machine learning and deep learning, to 
     <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/google%20colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"  alt="google colab"/>
     </a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=googlecolab&logoColor=323330"  alt="JavaScript"/>
+    </a>
 </p>
                                                                                                                                  
 ## Contributors
