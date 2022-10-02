@@ -44,8 +44,8 @@ With the implementation of principles of machine learning and deep learning, to 
 <a href="https://github.com/kbshal" target="_blank" rel="noreferrer">
     <img src="/images/Bishal%20Kharal.png" width="161" height="185"/>
 </a>
-<a href="https://github.com/kbshal" target="_blank" rel="noreferrer">
-    <img src="https://media-exp1.licdn.com/dms/image/C5603AQHd1O4sM2ZMug/profile-displayphoto-shrink_800_800/0/1649909614425?e=1670457600&v=beta&t=RKTPYcEBvAxagos31GNu7mOsatNXckq2SOdA9Uge0PY" width="161" height="185"/>
+<a href="https://www.linkedin.com/in/tinkal-pathak-53181420b/" target="_blank" rel="noreferrer">
+    <img src="[https://media-exp1.licdn.com/dms/image/C5603AQHd1O4sM2ZMug/profile-displayphoto-shrink_800_800/0/1649909614425?e=1670457600&v=beta&t=RKTPYcEBvAxagos31GNu7mOsatNXckq2SOdA9Uge0PY](https://scontent.cdninstagram.com/v/t1.15752-9/309350227_484271853714342_663270341572667562_n.jpg?stp=dst-jpg_s640x640&_nc_cat=106&ccb=1-7&_nc_sid=5a057b&_nc_ohc=4jL0xKWoIuUAX8TnFEn&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=03_AVKVfk0clamt69vRr5kg0mIBoLu7ogvXTdPDpappjafHTA&oe=635F639B)" width="161" height="185"/>
 </a>   
    
 <br>From Left: Ashim Dahal | Anuj Khadka | Bishal Kharal | Tinkal Pathak
