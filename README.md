@@ -29,6 +29,21 @@ With the implementation of principles of machine learning and deep learning, to 
         <img src="https://img.shields.io/badge/google%20colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"  alt="google colab"/>
     </a>
 </p>
+                                                                                                                                 
+## Contributors
+<div align="center">
+<a href="https://github.com/ashimdahal" target="_blank" rel="noreferrer">
+    <img src="/images/Ashim%20Dahal.png" width="161" height="185"/>
+</a>
+<span>
+<a href="https://github.com/Anuj-Khadka" target="_blank" rel="noreferrer" >
+    <img src="/images/Anuj Khadka.png" width="161" height="185"/>
+</a>
+<a href="https://github.com/kbshal" target="_blank" rel="noreferrer">
+    <img src="/images/Bishal%20Kharal.png" width="161" height="185"/>
+</a>                                                                  
+<br>From Left: Ashim Dahal | Anuj Khadka | Bishal Kharal | 
+</div>                     
 
 ## Repo Details
  <p align="left">
