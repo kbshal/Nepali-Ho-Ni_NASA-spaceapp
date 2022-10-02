@@ -41,8 +41,12 @@ With the implementation of principles of machine learning and deep learning, to 
 </a>
 <a href="https://github.com/kbshal" target="_blank" rel="noreferrer">
     <img src="/images/Bishal%20Kharal.png" width="161" height="185"/>
-</a>                                                                  
-<br>From Left: Ashim Dahal | Anuj Khadka | Bishal Kharal | 
+</a>
+<a href="https://github.com/kbshal" target="_blank" rel="noreferrer">
+    <img src="https://media-exp1.licdn.com/dms/image/C5603AQHd1O4sM2ZMug/profile-displayphoto-shrink_800_800/0/1649909614425?e=1670457600&v=beta&t=RKTPYcEBvAxagos31GNu7mOsatNXckq2SOdA9Uge0PY" width="161" height="185"/>
+</a>   
+   
+<br>From Left: Ashim Dahal | Anuj Khadka | Bishal Kharal | Tinkal Pathak
 </div>                     
 
 ## Repo Details
