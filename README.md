@@ -1,4 +1,6 @@
 ## Team Nepali Ho Ni NASA Spaceapp
+This is our official entry to Nasa Space Apps Challenge 2022!!
+Please find our source code above in the respective labelled folders. You can also view our demo website [here](https://jovai.netlify.app)
 
 
 Due to Github's file size limitation the main model for colorizing the image is not present here as it is more than 120 MB, get model from [here](https://drive.google.com/file/d/1tsgAa2qMVu2M48yPdghUBh1LVKYZgwfk/view?usp=sharing)
@@ -29,6 +31,25 @@ With the implementation of principles of machine learning and deep learning, to 
         <img src="https://img.shields.io/badge/google%20colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"  alt="google colab"/>
     </a>
 </p>
+                                                                                                                                 
+## Contributors
+<div align="center">
+<a href="https://github.com/ashimdahal" target="_blank" rel="noreferrer">
+    <img src="/images/Ashim%20Dahal.png" width="161" height="185"/>
+</a>
+<span>
+<a href="https://github.com/Anuj-Khadka" target="_blank" rel="noreferrer" >
+    <img src="/images/Anuj Khadka.png" width="161" height="185"/>
+</a>
+<a href="https://github.com/kbshal" target="_blank" rel="noreferrer">
+    <img src="/images/Bishal%20Kharal.png" width="161" height="185"/>
+</a>
+<a href="https://www.linkedin.com/in/tinkal-pathak-53181420b/" target="_blank" rel="noreferrer">
+    <img src="[https://media-exp1.licdn.com/dms/image/C5603AQHd1O4sM2ZMug/profile-displayphoto-shrink_800_800/0/1649909614425?e=1670457600&v=beta&t=RKTPYcEBvAxagos31GNu7mOsatNXckq2SOdA9Uge0PY](https://scontent.cdninstagram.com/v/t1.15752-9/309350227_484271853714342_663270341572667562_n.jpg?stp=dst-jpg_s640x640&_nc_cat=106&ccb=1-7&_nc_sid=5a057b&_nc_ohc=4jL0xKWoIuUAX8TnFEn&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=03_AVKVfk0clamt69vRr5kg0mIBoLu7ogvXTdPDpappjafHTA&oe=635F639B)" width="161" height="185"/>
+</a>   
+   
+<br>From Left: Ashim Dahal | Anuj Khadka | Bishal Kharal | Tinkal Pathak
+</div>                     
 
 ## Repo Details
  <p align="left">
