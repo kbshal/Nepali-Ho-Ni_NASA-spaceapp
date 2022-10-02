@@ -1,4 +1,6 @@
 ## Team Nepali Ho Ni NASA Spaceapp
+This is our official entry to Nasa Space Apps Challenge 2022!!
+Please find our source code above in the respective labelled folders. You can also view our demo website [here](https://jovai.netlify.app)
 
 
 Due to Github's file size limitation the main model for colorizing the image is not present here as it is more than 120 MB, get model from [here](https://drive.google.com/file/d/1tsgAa2qMVu2M48yPdghUBh1LVKYZgwfk/view?usp=sharing)
