@@ -7,9 +7,6 @@ Due to Github's file size limitation the main model for colorizing the image is 
 
 
 ## Technologies
-With the implementation of principles of machine learning and deep learning, to predict the landslides and floods nearby, and statistical analysis of weather-map data, Frida is an application fully powered by Firebase at the backend, presented in dart flutter and served in “.apk” format. Though the code and structuring in the backend may look complex, the app is designed such that users won’t have trouble accessing the features. UI is as simple and intuitive as possible.
-
-   
 <p align="left">
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
