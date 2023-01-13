@@ -32,7 +32,7 @@ Due to Github's file size limitation the main model for colorizing the image is 
 ## Contributors
 <div align="center">
 <a href="https://github.com/kbshal" target="_blank" rel="noreferrer">
-    <img src="/images/Bishal%20Kharal.png" width="161" height="185"/>       /images/Ashim%20Dahal.png
+    <img src="/images/Bishal%20Kharal.png" width="161" height="185"/>    
 </a>
 <span>
 <a href="https://github.com/Anuj-Khadka" target="_blank" rel="noreferrer" >
