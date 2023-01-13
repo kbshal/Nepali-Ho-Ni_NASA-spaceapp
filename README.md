@@ -31,21 +31,21 @@ Due to Github's file size limitation the main model for colorizing the image is 
                                                                                                                                  
 ## Contributors
 <div align="center">
-<a href="https://github.com/ashimdahal" target="_blank" rel="noreferrer">
-    <img src="/images/Ashim%20Dahal.png" width="161" height="185"/>
+<a href="https://github.com/kbshal" target="_blank" rel="noreferrer">
+    <img src="/images/Bishal%20Kharal.png" width="161" height="185"/>       /images/Ashim%20Dahal.png
 </a>
 <span>
 <a href="https://github.com/Anuj-Khadka" target="_blank" rel="noreferrer" >
     <img src="/images/Anuj Khadka.png" width="161" height="185"/>
 </a>
-<a href="https://github.com/kbshal" target="_blank" rel="noreferrer">
-    <img src="/images/Bishal%20Kharal.png" width="161" height="185"/>
+<a href="https://github.com/ashimdahal" target="_blank" rel="noreferrer">
+    <img src="/images/Ashim%20Dahal.png" width="161" height="185"/>
 </a>
 <a href="https://www.linkedin.com/in/tinkal-pathak-53181420b/" target="_blank" rel="noreferrer">
     <img src="/images/tinkal.jpg" width="161" height="185"/>
 </a>   
    
-<br>From Left: Ashim Dahal | Anuj Khadka | Bishal Kharal | Tinkal Pathak
+<br>From Left: Bishal Kharal | Anuj Khadka | Ashim Dahal | Tinkal Pathak
 </div>                     
 
 ## Repo Details
